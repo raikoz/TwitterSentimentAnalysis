@@ -1,4 +1,4 @@
-# TwitterSentimentAnalysis
+# twitter_sentiment_analysis
 A Twitter sentiment analyzer in just 14 lines of Python
 
 ## Overview
