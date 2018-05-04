@@ -16,6 +16,10 @@ Once you have your dependencies installed via pip, run the script in terminal vi
 ```
 python demo.py
 ```
+Sentiment Analysis understands and etracts feelings from data
+API lets us access an app's functionality from our code
+textblob is awesome for NP tasks
+
 ## Credits
 
 This code is 50% [Siraj](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) and 50% me.
